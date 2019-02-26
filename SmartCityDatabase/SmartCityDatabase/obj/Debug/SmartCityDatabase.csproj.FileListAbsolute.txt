@@ -1,0 +1,14 @@
+C:\Users\Marko\source\repos\SmartCityDatabase\SmartCityDatabase\bin\Debug\SmartCityDatabase.exe.config
+C:\Users\Marko\source\repos\SmartCityDatabase\SmartCityDatabase\bin\Debug\SmartCityDatabase.exe
+C:\Users\Marko\source\repos\SmartCityDatabase\SmartCityDatabase\bin\Debug\SmartCityDatabase.pdb
+C:\Users\Marko\source\repos\SmartCityDatabase\SmartCityDatabase\bin\Debug\MySql.Data.dll
+C:\Users\Marko\source\repos\SmartCityDatabase\SmartCityDatabase\bin\Debug\Google.Protobuf.dll
+C:\Users\Marko\source\repos\SmartCityDatabase\SmartCityDatabase\bin\Debug\MySql.Data.xml
+C:\Users\Marko\source\repos\SmartCityDatabase\SmartCityDatabase\obj\Debug\SmartCityDatabase.csprojAssemblyReference.cache
+C:\Users\Marko\source\repos\SmartCityDatabase\SmartCityDatabase\obj\Debug\SmartCityDatabase.Form1.resources
+C:\Users\Marko\source\repos\SmartCityDatabase\SmartCityDatabase\obj\Debug\SmartCityDatabase.Properties.Resources.resources
+C:\Users\Marko\source\repos\SmartCityDatabase\SmartCityDatabase\obj\Debug\SmartCityDatabase.csproj.GenerateResource.cache
+C:\Users\Marko\source\repos\SmartCityDatabase\SmartCityDatabase\obj\Debug\SmartCityDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\SmartCityDatabase\SmartCityDatabase\obj\Debug\SmartCityDatabase.csproj.CopyComplete
+C:\Users\Marko\source\repos\SmartCityDatabase\SmartCityDatabase\obj\Debug\SmartCityDatabase.exe
+C:\Users\Marko\source\repos\SmartCityDatabase\SmartCityDatabase\obj\Debug\SmartCityDatabase.pdb
